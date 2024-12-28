@@ -1,0 +1,92 @@
+{
+    "Low Launch / Low Spin": {
+        "Driver Shafts": [
+            {
+                "manufacturer": "Graphite Design",
+                "model": "Tour AD XC",
+                "weight": "63-77g",
+                "torque": "3.0-3.2",
+                "flex": "S, X, TX"
+            },
+            {
+                "manufacturer": "Fujikura",
+                "model": "Ventus Black",
+                "weight": "58-85g",
+                "torque": "2.8-3.1",
+                "flex": "R, S, X"
+            },
+            {
+                "manufacturer": "Mitsubishi Chemical",
+                "model": "Diamana Whiteboard",
+                "weight": "63-83g",
+                "torque": "2.8-3.0",
+                "flex": "S, X"
+            },
+            {
+                "manufacturer": "UST Mamiya",
+                "model": "ProForce V2",
+                "weight": "63-76g",
+                "torque": "3.0-3.2",
+                "flex": "R, S, X"
+            },
+            {
+                "manufacturer": "Aldila",
+                "model": "Rogue Black",
+                "weight": "60-70g",
+                "torque": "3.1-3.4",
+                "flex": "S, X"
+            },
+            {
+                "manufacturer": "Accra",
+                "model": "TZ5",
+                "weight": "65-85g",
+                "torque": "2.8-3.0",
+                "flex": "M3, M4, M5"
+            },
+            {
+                "manufacturer": "Project X",
+                "model": "HZRDUS Black",
+                "weight": "62-76g",
+                "torque": "3.0-3.4",
+                "flex": "5.5, 6.0, 6.5, TX"
+            },
+            {
+                "manufacturer": "Oban",
+                "model": "Kiyoshi Black",
+                "weight": "65-85g",
+                "torque": "2.9-3.2",
+                "flex": "S, X"
+            }
+        ],
+        "Fairway Wood Shafts": [
+            {
+                "manufacturer": "Graphite Design",
+                "model": "Tour AD DI",
+                "weight": "62-76g",
+                "torque": "3.3-3.5",
+                "flex": "S, X"
+            },
+            {
+                "manufacturer": "Fujikura",
+                "model": "Ventus TR Black",
+                "weight": "63-85g",
+                "torque": "2.8-3.0",
+                "flex": "R, S, X"
+            },
+            {
+                "manufacturer": "Mitsubishi Chemical",
+                "model": "Tensei AV Raw White",
+                "weight": "65-85g",
+                "torque": "2.8-3.0",
+                "flex": "S, X, TX"
+            },
+            {
+                "manufacturer": "Aldila",
+                "model": "Rogue Max FW",
+                "weight": "70-85g",
+                "torque": "3.1-3.3",
+                "flex": "S, X"
+            }
+        ]
+    }
+}
